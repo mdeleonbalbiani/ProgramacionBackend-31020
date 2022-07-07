@@ -1,0 +1,32 @@
+[
+  {
+    "title": "product",
+    "price": 100,
+    "thumbnail": "https://cdn4.iconfinder.com/data/icons/business-solid-the-capitalism/64/Product_delivery-512.png",
+    "id": 1
+  },
+  {
+    "title": "product",
+    "price": 200,
+    "thumbnail": "https://cdn4.iconfinder.com/data/icons/business-solid-the-capitalism/64/Product_delivery-512.png",
+    "id": 2
+  },
+  {
+    "title": "product",
+    "price": 300,
+    "thumbnail": "https://cdn4.iconfinder.com/data/icons/business-solid-the-capitalism/64/Product_delivery-512.png",
+    "id": 3
+  },
+  {
+    "title": "producto desde web",
+    "price": "60",
+    "thumbnail": "https://cdn4.iconfinder.com/data/icons/business-solid-the-capitalism/64/Product_delivery-512.png",
+    "id": 4
+  },
+  {
+    "nombre": "producto desde la web 2",
+    "precio": 300,
+    "imagen": "https://cdn4.iconfinder.com/data/icons/business-solid-the-capitalism/64/Product_delivery-512.png",
+    "id": 5
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "name": "clase8",
+  "version": "1.0.0",
+  "description": "Realizar un proyecto de servidor basado en node.js y express que ofrezca una API RESTful de productos. En detalle, que incorpore las siguiente rutas:\r  - GET '/api/productos' --> devuelve todos los productos\r  - GET '/api/productos/:id' --> devuelve un producto según su id.\r  - POST '/api/productos' --> recibe y agrega un producto, y lo devuelve con un id asignado\r  - PUT '/api/productos/:id' --> recibe y actualiza un producto según su id.\r  - DELETE '/api/productos/:id' --> elimina un producto según su id.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
